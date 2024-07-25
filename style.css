@@ -1,3 +1,16 @@
-li {
-  list-style-type: none;
+p {
+  font-size: 33px;
+  color: red;
+}
+
+.blue_color {
+  color: blue;
+}
+
+#green_color {
+  color: green;
+}
+
+.f50 {
+  font-size: 50px;
 }
